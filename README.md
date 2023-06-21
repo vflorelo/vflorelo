@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @vflorelo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi!
 
-<!---
-vflorelo/vflorelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Vic Flores (@vflorelo in [every platform](https://linktr.ee/vflorelo))
+
+I'm  a bioinformatician at [University of Cambridge](http://www.wallercellevolution.com/current/), trainer at [Cambridge Bioinformatics Training](https://bioinfotraining.bio.cam.ac.uk/staff/victor-flores-lopez) and co-founder of [ATG](https://www.atglabs.org/)
+
+I like running, cycling, hiking, teaching, programming, and occassionally doing research
+
+My favourite languages are bash and javascript, but whatever language gets the job done is good enough (yes, even R)
+
+Feel free to drop me a [message](mailto:vflorelo@gmail.com)
+
+Happy coding!
